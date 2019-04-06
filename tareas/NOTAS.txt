@@ -1,0 +1,42 @@
+morelia
+sara de ecuador
+
+listar canciones
+info canciones
+login
+LOREM INSUPS
+HERRAMIENTA
+ALM HTA PARA CASOS DE PRUEBA
+
+login
+mensaje de bienvenida
+crear una cancion
+ingresar info de la cancion
+muestra la cancion
+mensaje de exito
+caso de prueba narracion de alto nivel
+muy generales para realizar una acción
+id
+name
+texto visible
+
+
+aserscion - se detiene o falla la aplicacion
+verificacion - ya es más suave
+
+tres tipos de comando
+click
+assert
+viene en referencia que hace el comando
+RC - OBSOLETO
+IDE PARA GENERAR PROTOTIPOS
+WEB PARA AUTOMATIZAR
+
+URL
+http://songs-by-sinatra.herokuapp.com/
+
+assert element present
+
+- https://github.com/jomarnavarro/intro_automation
+- De entrada, la liga al album de sabatino es: https://vimeo.com/album/5878247
+Abril#Selenium
